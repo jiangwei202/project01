@@ -88,8 +88,7 @@
 	// "plugins":{
 	// 	"routePlan":{
 	// 		"version":"1.0.19",
-	// 		// "provider":"wx50b5593e81dd937a"
-	// 		   // "provider":"wxc87069405a41c297"
+	//      "provider":""
 	// 	}
 	// },
 	"globalStyle": {
