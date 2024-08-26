@@ -1,6 +1,6 @@
 class Utils{
 	constructor(){
-		this.baseUrl = ''
+		this.baseUrl = '接口地址'
 	}
 	//获取用户信息
 	getUserInfo(){
