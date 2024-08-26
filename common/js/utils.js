@@ -1,6 +1,6 @@
 class Utils{
 	constructor(){
-		this.baseUrl = 'https://code.itndedu.com/pz'
+		this.baseUrl = ''
 	}
 	//获取用户信息
 	getUserInfo(){
